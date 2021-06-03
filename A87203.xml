@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Irelands fidelity to the Parliament of England. In answer to a paper, intituled, The humble petition of the officers and soldiers in the fort of Duncannon.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87203</idno><idno type="EEBO-CITATION">99867175</idno>
+  <idno type="VID">168776</idno>
+  <idno type="EEBO-PROQUEST">2240917435</idno>
+  
+            <idno type="STC">Wing I1024</idno>
+            <idno type="STC">Thomason E1015_13</idno>
+            <idno type="STC">ESTC R208204</idno>
+            <idno type="PROQUEST">99867175</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867175e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87203)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168776)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Irelands fidelity to the Parliament of England. In answer to a paper, intituled, The humble petition of the officers and soldiers in the fort of Duncannon.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In reply to: The humble petition of the officers and soldiers in the fort of Duncannon.</note>
+                  <note>Annotation on Thomason copy: "Feb. 8. 1659"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Humble petition of the officers and soldiers in the fort of Duncannon.</term>
+               <term type="geographic_name">Ireland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168776:1"/>
+            <p>IRELANDS FIDELITY TO THE PARLIAMENT OF <hi>ENGLAND.</hi> IN ANSWER To a Paper, Intituled, <hi>The Humble Petition of the Officers and Soldiers in the Fort of</hi> DUNCAN<g ref="char:EOLhyphen"/>NON.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Newcomb.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168776:2"/>
+            <pb n="3" facs="tcp:168776:2"/>
+            <head>IRELANDS Fidelity TO The PARLIAMENT of <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S <hi>to despise Dominion,</hi> is the sin of these times, so <hi>to be false Accusers,</hi> is a sign of the latter times. Before the Petition it self be handled, t<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t is so full of guilt in both respects, it will be necessary to ob<g ref="char:EOLhyphen"/>serve, That this Fort of <hi>Duncannon,</hi> with the Com<g ref="char:EOLhyphen"/>pany that are the Subscribers, was formerly under the Command of Col: <hi>Simon Ridgley,</hi> a faithful Servant to this Par<g ref="char:EOLhyphen"/>liament, who instead of raising, hath loured his fortunes by the Wars, out of whose hands it was taken by Lieut. Gen. <hi>Ludlow,</hi> and put into the hands of <hi>William Skinner,</hi> an Anabaptist; who being formerly laid aside, or at least (out of some pettish discontent) having laid himself aside (because the height of his employment was not suitable to his spirit) was now made Captain of the said Colonel <hi>Ridgleys</hi> Company, and Governor of the Fort; a place of no small strength and consequence to that Nation (and the poor old Gentleman put to shift for himself for some weeks.) As indeed it was the main de<g ref="char:EOLhyphen"/>sign then driven on, to put all the strong holds of that Country into the hands of such men, that were either plunged, or of whimsical opinions, (as <hi>Dublin, Wickloe, Waxford, Duncannon, Waterford, Cork, Lymerick, Clonmel, Kilkenny, Carlow, Tredagh, Trym, Ath<g ref="char:EOLhyphen"/>lone, Galloway, Carickfergus, London-Derry</hi>) for that was the <hi>Shi<g ref="char:EOLhyphen"/>boleth,</hi> in those few moneths of Anarchy, by which those that they called <hi>Confiders</hi> were known. This <hi>Skinner,</hi> you shall finde him listed amongst the common Soldiers, the better to keep him undistinguish'd to the Parliament, though (no doubt) to the Parliaments friends (where he is) he is better known then like to be trusted for the suture. But to come to the Petition it self.</p>
+            <p>The great pretence by which they usher in their <hi>Abortive,</hi> for so I call it, (because <hi>born out of due time</hi>) after they had stood out to
+<pb n="4" facs="tcp:168776:3"/>the utmost against those who afterwards in their Petition, <hi>they ac<g ref="char:EOLhyphen"/>knowledge with rejoycing,</hi> to have declared in that Nation for the Par<g ref="char:EOLhyphen"/>liament, is, <hi>That with great grief of heart they had observed the sad acts of many, professing godliness, in disturbing the Parliaments hope<g ref="char:EOLhyphen"/>ful beginning of setlement to these Nations; and that they mourned be<g ref="char:EOLhyphen"/>fore the Lord for this Apostacy. Answ.</hi> But who can believe this to be unfeigned? since it was the language of the great Apostates themselves, at this Parliaments restitution, though used like <hi>Joabs</hi> salute to <hi>Abner,</hi> or <hi>Judas</hi> his kiss before his Treason: For if there was such a spirit of mourning upon them, how durst they hold out that Fort, when the whole Army, to recover themselves from that dreadful Apostacy (in which they were like to be involved) declared for the Parliament, as the Petitioners acknowledge? Or who can believe the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enman of the Petition, that such a spirit of mourning should fall upon the private Soldiers of that Company, upon the grounds aforesaid; which yet was the onely Company in <hi>Ireland</hi> that stood it out so stifly against the Parliaments Friends?</p>
+            <p>But what have the Petitioners to say for this? a very good excuse, they pretend an <hi>impulse,</hi> That it was set upon their hearts, not to yield the Garison to any Authority, but such as should be purely de<g ref="char:EOLhyphen"/>rived from the Parliament. But in the mean time, no doubt they were led to set up for themselves, to live upon the spoil and rapine of the Countrey, and so to have proved a Den of Theeves; and as good hopes, no doubt they had, never to see such a power in that Nation, considering with what face things did then look in <hi>England;</hi> might not the Fort of <hi>Air</hi> in <hi>Scotland</hi> (or any Garison under Gene<g ref="char:EOLhyphen"/>ral <hi>Moncks</hi> Government, and consequently all the Forts of the Three Nations) have stood out upon the like Impulses and Reasons? And had not some places and persons declared against the Army-Usur<g ref="char:EOLhyphen"/>pers, when had ever this Parliament been restored? What, can the Petitioners rejoyce, as they tell you in their Petition they did, to hear that the Army in <hi>Ireland</hi> had declared; and yet will they refuse to declare with them? Let it be as a seasonable <hi>item</hi> to all concerned, what Impulse mongers they intrust in such places of concern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But the Subscribers say, <hi>The reason of their non-conjunction with the Army was, because they had ground to think that what they declared, were but pretences, because the persons chiefly managing the work in</hi> Dublin, <hi>were such as had largely declared for a single Persons Interest; and men that a little before (the chief of them) had espoused the Armies
+<pb n="5" facs="tcp:168776:3"/>Interest, by disclaiming the Parliament, and signing one Letter to General</hi> Monck, <hi>and another to the Army in</hi> England: <hi>And because the Petitioners saw all Interests, even the most violent Cavaliers fall in with them at</hi> Dublin, <hi>yea such, who when the Parliament was restored, laid down their Commissions in discontent: And this was further con<g ref="char:EOLhyphen"/>firmed by their violent actings against all the Parliaments real Friends, by disarming and imprisoning them, yea, such who had declared, charging them with the same things of which they were guilty themselves, as signing of Papers, &amp;c.</hi>
+            </p>
+            <p>This part of the Petition looks like so many Articles of a Charge, I shall therefore briefly examine each particular, 1. <hi>They declared for the usurped Authority of the Protector. Answ.</hi> Did not the Sub<g ref="char:EOLhyphen"/>scribers do the like? did not all the Armies and Fleets of the Three Nations the like? And why might not the Petitioners by the same reason disclaim against General <hi>Monck,</hi> in his present undertakings, because he had formerly served his Countrey under that Authority? Are they not self condemners in that wherein they condemn others. It was an honest and true saying of Lieut General <hi>Ludlow</hi> at a meet<g ref="char:EOLhyphen"/>ing of Officers in <hi>Dublin; That of all parties, he knew none more guilty, or more to be blamed for that defection, then the Anabaptists.</hi>
+            </p>
+            <p n="2">2. <hi>But the chief persons managing the work at</hi> Dublin, <hi>had espoused the Armies Interest, by sending one Letter to General</hi> Monk, <hi>and an<g ref="char:EOLhyphen"/>other to the Army in</hi> England. <hi>Answ.</hi> The meaning of this is better understood then exprest; it is true, there was a Letter written by <hi>Jones</hi> to General <hi>Monck,</hi> to disown his hostile actions against their Friends of the Army in <hi>England;</hi> which Letter being before pre<g ref="char:EOLhyphen"/>pared, was like to have proved a <hi>Trepan</hi> to several innocent Officers, who knew nothing of it, till they met to subscribe; nor was there above nine in all, of which number, two protested against it, and withdrew▪ and yet they had the confidence to subscribe this Letter, as from a Council of Officers at <hi>Dublin (neminè contradicente.)</hi> So that of the remaining Subscribers, there is onely one that is now en<g ref="char:EOLhyphen"/>gaged eminently in <hi>Dublin;</hi> and no doubt he had this in his eye, as the effect manifesteth, not to incapacitate himself from laying hold on the first opportunity to appear for the Parliament, which accord<g ref="char:EOLhyphen"/>ingly he did, and thereby threw off that burden which he had long been under, as almost insupportable.</p>
+            <p n="3">3. <hi>But the vilest of the Cavaliers fell in with them. Answ.</hi> Either the Subscribers mean that the Cavaliers joyned with the Army in declaring for the Parliament, or that they were well pleased at what
+<pb n="6" facs="tcp:168776:4"/>the Army did, or else the persons so highly concerned, received Cavaliers into the Army. If either of the former, it wounds not the Reputation of the Army; if the latter be meant, as indeed it must be, if it be considered what strange reports have been bruited abroad, and that occasioned by several misrepresentations in Letters directed to this Parliament from Lieut. General <hi>Ludlow</hi> and Mr. <hi>Corbet,</hi> then hath this parcel of Petitioners subscribed an untruth: And there<g ref="char:EOLhyphen"/>fore in the behalf of that Faithful Army I assert, That not one Ca<g ref="char:EOLhyphen"/>valier (upon the strictest enquiry) could I ever hear, hath been in<g ref="char:EOLhyphen"/>listed, more then those that were in it in the strictest time of that Armies Discipline, under <hi>Ireton</hi> and <hi>Fleetwood:</hi> And to disprove this, I make a challenge to the Subscribers, and all their Confede<g ref="char:EOLhyphen"/>rates, who think themselves concerned, to bring but one example to the contrary; if they cannot, then let the Frowns of an English Parliament strike terror in the false accusers of their Brethren.</p>
+            <p n="4">4. <hi>But many of these that now appear for the Parliament, laid down their Commissions in discontent at their Restitution. Answ.</hi> This is al<g ref="char:EOLhyphen"/>so an untruth, For the true ground and reason of those few that did so lay down, of which Lieutenant Colonel <hi>Scot</hi> was one, was be<g ref="char:EOLhyphen"/>cause they would not serve under an Anabaptistical and Fanatick Faction, which then ruled and domineered both in Camp and Ga<g ref="char:EOLhyphen"/>rison.</p>
+            <p n="5">5. But the Petitioners say, <hi>That the Army violated their Declara<g ref="char:EOLhyphen"/>tion, by imprisoning of Friends, and turning out many that were faith<g ref="char:EOLhyphen"/>ful, laying to their charge no more then what the chiefest of themselves were guilty of. Answ.</hi> It may be in such a hurry of business some few might suffer who did not deserve it; but yet the sufferings of such were occasioned by misrepresentations from the Countrey: But in this, such sufferers are not left without remedy; for publick Declaration hath been made, That all persons who think themselves injured, should be heard; and to that end Court-Marshals are set<g ref="char:EOLhyphen"/>led in all parts of the Nation, in which none are to sit as Judges that are concerned. A remedy, that though desired and often moved for in the return of the black List, brought over by Lieut. General <hi>Lud<g ref="char:EOLhyphen"/>low,</hi> yet could never be obtained. For how many Faithful Friends to this Parliament, yea scores of them were outed for they knew not what; by reason whereof, the fairer opportunity was given to their apostacy: But the Petition saith, <hi>Some of the chief of the Army now declaring, were guilty of the signing Papers for the Army in</hi> England. <hi>Answ.</hi> This also is a Charge forged in the same shop of untruths;
+<pb n="7" facs="tcp:168776:4"/>for could they have mentioned one, no doubt he had been named, if it had served for their advantage. In the next Clause the Petiti<g ref="char:EOLhyphen"/>oners do confess, <hi>That they did rejoyce that they had an opportunity to declare for the Parliament. Answ.</hi> But if so, who gave them that opportunity? was it not their Friends in <hi>Dublin?</hi> yea, the whole Army, and why then did they not make use of their opportunity, in near three weeks time? They say, <hi>They could not decline him that was commissioned by the Parliament, who had in the worst of times born his faithful Testimony for the Priviledges of Parliament. Answ.</hi> It is well they can cover their offences (to speak gently of it) with the cloak of his former Fidelity (meaning Lieut. General <hi>Ludlows.</hi>) But this will not serve them as a sufficient excuse, for his coming to that place was onely accidental; and it seems, if he had never came, they would never have joyned with the Army in their undertakings, though they declared, as themselves before confessed, for the Parlia<g ref="char:EOLhyphen"/>ment. But by this they would also insinuate, <hi>That they in</hi> Dublin <hi>had cast off the Parliaments Authority, by not owning him that had their Commission. Answ.</hi> The Petitioners do not consider that a Commis<g ref="char:EOLhyphen"/>sion may be forfeited through the breach of trust: I will not say his is, but a little time will clear it. The Petitioners say, <hi>That if they had submitted to the conduct of those in</hi> Dublin, <hi>they had been ensnared. Answ.</hi> Very well said, Is it a snare to submit to the conduct of the Parliaments Friends? they shew by this who they were for, as tey have done also by firing of the poor Countrey-peoples Houses. But say the Petitioners, <hi>We had been commanded out of our Garison, and others placed in; that at the Parliaments Restitution were enemies to them, and by such who could shew no Authority for their so doing. Answ.</hi> Is it possible, that any man should have so much confidence to pre<g ref="char:EOLhyphen"/>sent such a Petition to the Parliament, from persons that have stood it out to the utmost against them, and yet pretending they are still faithful; or have they no way to justifie the Forty seven Petitioners, but by condemning the Fidelity of a whole Army; for either the one or the other must be transgressors: And surely had the Army been under guilt, the Thanks of the House had never been sent them for their good service. But seeing they have the boldness to assert again, <hi>That many of them were enemies to the Parliament, when restored;</hi> I must here again give them a second challenge, to name one man of so many that is guilty of this charge. But the Forty seven say, <hi>That the Officers could shew no Authority for what they did. Answ.</hi> It is Authority sufficient, and justifiable by all Laws, Sacred, Civil, and
+<pb n="8" facs="tcp:168776:5"/>Military, to assert, though to the loss of life, the Freedom and Pri<g ref="char:EOLhyphen"/>viledges of the Supream Powers of the Nations, against their sinful Interruptors: What Authority had the private Soldiers about this City to cast off their Officers? but led to it by the same necessity their Friends were in <hi>Ireland</hi> (though somewhat in a different man<g ref="char:EOLhyphen"/>ner.) Such a prentece might any Fort in <hi>Scotland</hi> have made against General <hi>Monck,</hi> for want of a <hi>Qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum,</hi> whose actions (notwith<g ref="char:EOLhyphen"/>standing) have renowned him to Posterity, for his Courage and Fide<g ref="char:EOLhyphen"/>lity. As to the latter part of the Petition, relating to Lieut. General <hi>Ludlow,</hi> crying up his former good service, <hi>And that his Commissi<g ref="char:EOLhyphen"/>on being still in force, they could not but own him;</hi> much may be said in answer, which because touched before, shall be omitted. But as to his present actings, which (for ought I know) may easily kick down his former merits, <hi>Sub judice lis est,</hi> I will not prejudge him. Onely by the often repetition of his former merits, we may guess at the Author.</p>
+            <p>Lastly, The Petitioners conclude Affirmatively, <hi>That all their Besiegers (which were a considerable number of Foot, Horse, and Dra<g ref="char:EOLhyphen"/>goons, commanded by Lieut. Colonel</hi> Scot) <hi>were enemies to the Parlia<g ref="char:EOLhyphen"/>ment at their first Restitution, and much rejoyced at their last Inter<g ref="char:EOLhyphen"/>ruption. Answ.</hi> But they durst not affix their Condemnations, either one or the other, to particular persons, their Fidelity being so well known; and therefore as they begin with Hypocrisie, so they end with Lies.</p>
+            <p>What remains therefore in Answer to their Prayer▪ but this, name<g ref="char:EOLhyphen"/>ly, That the Parliament do believe them to be as they are, and have been represented by Faithful Friends, enemies who have endeavored to involve that Nation into Blood and War; that have not submitted within the time prefixt, and therefore deserve justly to be questioned for their Rebellion.</p>
+            <epigraph>
+               <q xml:lang="lat">Amicus certus in re incertâ cernitur.</q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <p>THis Petition had perished in oblivion, instead of being answered, had it not been full of reproaches; and thereby the Honor of this Parliament secretly wounded, for the Thanks of the House, sent them for what they had done.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
